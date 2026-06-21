@@ -116,4 +116,4 @@ A potential future pipeline could leverage CNN-based feature extraction followed
 ## Authors
 
 - **Nizar Baloubali** (Data Science, Big Data & AI Engineering student)
-- **Manal ES-SOBHY (https://github.com/LaughUntilYouPiss)** (Data Science, Big Data & AI Engineering student)
+- **Manal ES-SOBHY** (Data Science, Big Data & AI Engineering student)
