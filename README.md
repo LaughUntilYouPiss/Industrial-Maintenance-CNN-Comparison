@@ -117,9 +117,3 @@ A potential future pipeline could leverage CNN-based feature extraction followed
 
 - **Nizar Baloubali** (Data Science, Big Data & AI Engineering student)
 - **Manal ES-SOBHY** (Data Science, Big Data & AI Engineering student)
-
----
-
-## License
-
-This project is licensed under the MIT License.
