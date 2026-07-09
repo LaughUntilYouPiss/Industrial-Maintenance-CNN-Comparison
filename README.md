@@ -7,13 +7,17 @@ A comparative study of modern Convolutional Neural Networks (CNNs) for industria
 Predictive maintenance aims to detect machine degradation before failures occur, reducing downtime and maintenance costs in industrial environments.
 
 In this project, three state-of-the-art deep learning architectures were evaluated and compared:
-
 - VGG19
 - ResNet50
 - DenseNet121
 
 The objective was to analyze their learning behavior, convergence stability, and feature extraction capabilities on an industrial image classification task.
 
+A detailed explanation of the methodology, experiments, model architectures, and results is available in the accompanying blog post:
+
+🔗 **Read the full article:** [Comparing VGG19, ResNet50, and DenseNet121 for Industrial Machine Monitoring](https://medium.com/@neuronsandnonsense/comparing-vgg19-resnet50-and-densenet121-for-industrial-machine-monitoring-6e8081cfc584)
+
+---
 
 ## Motivation
 
@@ -117,3 +121,8 @@ A potential future pipeline could leverage CNN-based feature extraction followed
 - **Nizar Baloubali** (Data Science, Big Data & AI Engineering student)
 - **Manal ES-SOBHY** (Data Science, Big Data & AI Engineering student)
 
+---
+
+## License
+
+This project is licensed under the MIT License.
